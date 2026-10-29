@@ -40,6 +40,3 @@ Guided by the formal requirements outlined in `Blinkit_Business_Requirements.ppt
 4.  **DAX Development:** Created custom measures for Average Rating, Sales Distribution, and Tier-based performance.
 5.  **Validation:** Cross-referenced all Power BI visual totals with results from `Blinkit_SQL_Validation.sql` to ensure 100% data accuracy
 
----
-**Developed by:** Parag Taide  
-**LinkedIn:** https://www.linkedin.com/in/paragtaide/
